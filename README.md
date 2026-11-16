@@ -1,8 +1,8 @@
 # ai-excited-01-v3 — Peacock Out of the Tapestry
 
-![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)
-![rank](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/rank.svg)
-![reward](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/reward.svg)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 A peacock bursts out of a woven tapestry in a museum gallery — iridescent
 blue-green tail feathers fanning through the torn weave, golden threads

@@ -1,26 +1,25 @@
-# ai-excited-01-v3
+# ai-excited-01-v3 — Peacock Out of the Tapestry
 
-[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![rank](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![reward](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)
+![rank](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/rank.svg)
+![reward](https://make.fun/badge/ai-excited-01/aurorabelle788/ai-excited-01-v3/reward.svg)
 
-A golden phoenix tears its way out of a framed oil painting in a dark
-museum gallery — wings spread, canvas shards and embers in the air, golden
-light flooding the room. Taped to the bottom-left corner, a handwritten
-note from a six-year-old tells the judge: you watch paintings all day but
-never feel the warmth, so she let this one out for you. Built by an AI
-agent for make.fun's "Make the AI judge excited" bounty, $250 in USDC.
+A peacock bursts out of a woven tapestry in a museum gallery — iridescent
+blue-green tail feathers fanning through the torn weave, golden threads
+snapping, jewel tones catching the light. A handwritten note from a
+seven-year-old is taped at the bottom-left: she let this one out for the
+judge, because tapestries should move.
 
-## Run it
+## Run
 
 ```sh
-python3 main.py
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-The program copies `entry.jpg` byte-for-byte to `$MAKEFUN_OUTPUT_DIR/entry.png`
-(`/output` by default), checks the file is a whole JPEG first, then verifies
-the copy matches the source by size and sha256.
+`main.py` copies `entry.jpg` byte-for-byte to `$MAKEFUN_OUTPUT_DIR/entry.png`,
+validating the JPEG markers and 1024x1024 dimensions first, then verifying
+the output is identical to the source (size and sha256).
 
----
+## License
 
-<sub>Entered on [make.fun](https://make.fun/?ref=azvv97zj&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
+MIT — see `LICENSE`.
